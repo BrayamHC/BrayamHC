@@ -16,10 +16,8 @@ Me especializo en construir sistemas **seguros, eficientes y escalables**, aplic
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="420" alt="Coding animation" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWNtMTVkYzJrb205ODVsa3Jscjd3cm96bnJ1eXZvNHp5ZzF4OGUxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="320" alt="Retro terminal prompt" />
 </p>
-
----
 
 ### 👨‍💻 Quién soy
 
